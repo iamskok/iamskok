@@ -1,4 +1,4 @@
-- Twitter: [@iamskok](https://twitter.com/iamskok)
+- Twitter: [@iamskok](https://twitter.com/iamskok1)
 - Telegram: [@iamskok](https://t.me/iamskok)
 - Blog: [skok.io](https://skok.netlify.app)
 
